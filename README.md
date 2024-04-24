@@ -36,3 +36,5 @@ Move a horse character, mascot of Soongsil University, pressing UP / DOWN/ RIGHT
 
 자세한 내용은 여기를 [참조](https://sktelecom.github.io/guide/use/obligation/agpl-3.0/)하세요.
 
+We are not affiliated with, endorsed or approved by Soongsil University or Shoong-Shoong-Ei (슝슝이) in any way.
+
