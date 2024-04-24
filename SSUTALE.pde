@@ -55,9 +55,9 @@ final float SET_SUPER = 0.5;      // 데미지를 입은 경우 무적이 되는
 final int SET_PHASETOTAL = 5;     // 총 페이즈 수
 final int SET_STORY1TIME = 1;     // 대화1 진행 시간 (단위: 초)
 final int SET_STORY2TIME = 2;     // 대화2 진행 시간 (단위: 초)
-final int SET_PHASE3TIME = 10;    // 유웅이: 페이즈3 진행 시간 (단위: 초)
-final int SET_PHASE4TIME = 20;    // 정안이: 페이즈4 진행 시간 (단위: 초)
-final int SET_PHASE5TIME = 12;    // hobaksweetpotato: 페이즈5 진행 시간 (단위: 초)
+final int SET_PHASE3TIME = 10;    // 페이즈3 진행 시간 (단위: 초)
+final int SET_PHASE4TIME = 20;    // 페이즈4 진행 시간 (단위: 초)
+final int SET_PHASE5TIME = 12;    // 페이즈5 진행 시간 (단위: 초)
 final int SET_CONTROL_SENSITIVITY = 3;
 
 final int MAINSCREEN = 0;         // 처음 시작 화면
