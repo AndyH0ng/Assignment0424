@@ -2,11 +2,12 @@
 A repository for Basic Modeling and Practice team assignment.
 
 # Contributors
-(AndyH0ng)[https://github.com/AndyH0ng]
 
-(fo0ont)[https://github.com/fo0ont]
+[AndyH0ng](https://github.com/AndyH0ng)
 
-(hobaksweetpotato)[https://github.com/hobaksweetpotato]
+[fo0ont](https://github.com/fo0ont)
 
-(sandocsol)[https://github.com/sandocsol]
+[hobaksweetpotato](https://github.com/hobaksweetpotato)
+
+[sandocsol](https://github.com/sandocsol)
 
